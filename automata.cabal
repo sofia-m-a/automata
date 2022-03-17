@@ -40,8 +40,8 @@ library
     Automata.Dfst.Compact
     Automata.Dfst.Compact.Unboxed
     Data.Bytes
-  other-modules:
     Automata.Internal
+  other-modules:
     Automata.Internal.Transducer
     Automata.Internal.Partition
   build-depends:
